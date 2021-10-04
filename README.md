@@ -10,7 +10,7 @@ Skills: C# / Java / REACT / JS / HTML / CSS / Database Management
 - 📫 How to reach me: bariskocaman5592@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BarisKocaman55)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/baris-kocaman-652667178//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14860851/bar%c4%b1%c5%9f-kocaman)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BarisKocaman55)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/baris-kocaman-652667178//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14860851/bar%c4%b1%c5%9f-kocaman)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarisKocaman55)](https://github.com/anuraghazra/github-readme-stats)
 
