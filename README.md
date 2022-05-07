@@ -2,11 +2,11 @@
 #### I am Software Engineer.
 ![I am Software Engineer.](https://media.istockphoto.com/vectors/software-engineering-banner-and-icons-vector-id636526232)
 
-I'm Barış Kocaman. I graduated from Başkent University Computer Engineering Department. I am currently working as a Software Engineer. I use C#, Java as backend. On the frontend, I use Html, Css, Js and React.
+I'm Barış Kocaman. I graduated from Başkent University Computer Engineering Department. I am currently working as a Software Engineer. I use C#, Java as backend. On the frontend, I use Html, Css, Js, Angular and React.
 
-Skills: C# / Java / REACT / JS / HTML / CSS / Database Management
+Skills: C# / Java / Angular/ REACT / JS / HTML / CSS / Database Management
 
-- 🔭 I’m currently working on Idvlabs 
+- 🔭 I’m currently working on Fibabanka 
 - 📫 How to reach me: bariskocaman5592@gmail.com 
 
 
